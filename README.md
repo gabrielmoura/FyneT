@@ -1,6 +1,6 @@
 # Controle de Vazão de Água e acionamento de Bomba com MQTT
 
-![](/home/blx32/go/src/github.com/gabrielmoura/FyneT/print.jpg)
+![](print.jpg)
 
 ## Tecnologias
 - [Fine](https://fyne.io/)
